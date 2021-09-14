@@ -1,5 +1,5 @@
-# react-native-code-challenge
-You have been challenged.
+# react-native-coding-exercise
+This should be fun!
 
 ## What to build
 
